@@ -2,7 +2,7 @@
 
 pragma solidity ^0.6.0; //Defining the Solidity version
 
-contract SimpleStorage {
+contract ContactList {
 
     struct People {
         string name;
